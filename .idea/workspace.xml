@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dafcd19-0ddb-4699-8689-a40dac21b765" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDisemvowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringDisemvowelTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IsThisATriangleTest.publicTests">
+  <component name="RunManager" selected="JUnit.StringDisemvowelTest.FixedTests">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CodeWarsExercises" />
@@ -66,8 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringDisemvowelTest.FixedTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWarsExercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringDisemvowelTest" />
+      <option name="METHOD_NAME" value="FixedTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringDisemvowelTest.FixedTests" />
         <item itemvalue="JUnit.IsThisATriangleTest.publicTests" />
         <item itemvalue="Application.Main" />
       </list>
@@ -115,10 +128,10 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="505" y="337" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.806@0.23.1440.806" timestamp="1597830872562" />
-    <state x="495" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597830890656">
+    <state x="495" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597831849098">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="495" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.797@0.23.1440.797" timestamp="1595591201426" />
-    <state x="495" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.806@0.23.1440.806" timestamp="1597830890656" />
+    <state x="495" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.806@0.23.1440.806" timestamp="1597831849098" />
   </component>
 </project>
